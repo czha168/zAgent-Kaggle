@@ -1,0 +1,6 @@
+target/
+__pycache__/
+*.pyc
+*.bin
+zagent-sidecar-linux-*
+.DS_Store
